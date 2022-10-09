@@ -43,6 +43,7 @@
 body{
   background-color: var(--body-color);
   overflow: hidden;
+
 }
 
 .contenedor-categorias{
@@ -175,6 +176,7 @@ body{
   gap: 1rem;
 }
 
+
 .contenedor-carrito #close{
   position: absolute;
   top: 0.5rem;
@@ -266,3 +268,4 @@ body{
 .hidden{
   display: flex;
 }
+
